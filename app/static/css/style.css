@@ -1,0 +1,22 @@
+body {
+    font-family: 'Open Sans', sans-serif;
+    background-color: #000000;
+}
+
+h1,p {
+    color: #ffffff;
+}
+
+.main-view {
+  padding: 20px;
+  margin: 20px;
+  border-radius: 10px;
+}
+
+.main-view img {
+  width: 20%;
+  height: auto;
+  border-radius: 10px;
+  display: block;
+  margin: 0 auto;
+}
